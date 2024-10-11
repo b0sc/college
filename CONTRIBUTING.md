@@ -20,11 +20,13 @@ You can contribute to this repository in several ways:
 
 ### PATH A
 
-> Contribute by completing the assignments and projects in the respective course folder as per the guide available in the `README.md` file in the respective course folder.
+> Contribute by completing tasks as per the guide available in the `README.md` file in the respective course folder.
 
 ### PATH B
 
-> Contribute by creating a new task or project in the respective course folder. In the `README.md` file of the respective course folder, you will find the course structure. You can add a new task or project to the course structure.
+> Contribute by creating a new task in the respective course folder. In the `README.md` file, you will find the course structure where you can add a new task so that others can learn a different practical task.
+
+-   Each course will have a maximum of 10 tasks, if there are less than 10 tasks, only then you can add a new task to the course, otherwise, you can contribute to other courses or join advanced path.
 
 ### Advanced Path
 
@@ -32,7 +34,9 @@ If you want to contribute to a course that is not available in the repository, y
 
 -   **Step 1:** Check for the Unchecked courses in the README.md file in **Available Courses** Section.
 -   **Step 2:** Create a new folder with the course name in the root directory.
--   **Step 3:** Create a README.md file in the course folder and add the course description and the tasks that you want to add to the course.
+-   **Step 3:** Create a README.md file in the course folder and add the course description and the tasks (max 10) that you want to add to the course.
+
+> **Note:** This is an advanced path, and you can only follow this path if you have completed the basic path. The review of the changes will take more time as compared to the basic path and all your changes can be discarded if they are not relevant to the course and not in the same order as the other courses.
 
 ## Hacktoberfest
 

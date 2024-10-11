@@ -1,5 +1,6 @@
 # Guide To Practical Implementations of Theoritical CS Concepts
 
+<img align="right" width="300" src="./assets/padhate-kaise-hain.jpg" alt="clone this repository" />
 The repository is organized by the course name. Each course has its own folder and each folder has its own README.md file with a description that will guide you to the proper way to contribute as well as understand what is taught in your theoritical computer science course.
 
 ## Courses Available
