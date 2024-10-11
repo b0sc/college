@@ -7,7 +7,7 @@ A guide that everyone must follow to make contributions to this repository. If y
 1. Create a branch.
 1. Make necessary changes (Path A or Path B) and commit those changes.
 1. Push changes to GitHub.
-1. Submit your changes for review by making a Pull Request.
+1. Submit your changes for review by making a Pull Request, use [template](./docs/pull_request_template.md).
 
 If you've completed all the tasks as requested, all your changes will be merged into the main branch of this project. You will get a notification email once the changes have been merged and you'll officially be a contributor.
 
