@@ -1,3 +1,27 @@
 # Guide To Practical Implementations of Theoritical CS Concepts
 
-Here is a guide to practical implementations of theoretical computer science concepts. This repository is a collection of projects and assignments from various computer science courses. The repository is organized by the course name. Each course has its own folder and each folder has its own README.md file with a description of the course and the projects and assignments that are stored in it.
+The repository is organized by the course name. Each course has its own folder and each folder has its own README.md file with a description that will guide you to the proper way to contribute as well as understand what is taught in your theoritical computer science course.
+
+## Courses Available
+
+-   [x] [C](https://github.com/b0sc/college/tree/master/c)
+-   [x] [Digital Logic](https://github.com/b0sc/college/tree/master/digital_logic)
+-   [x] [OOP](https://github.com/b0sc/college/tree/master/oop)
+-   [x] [DSA](https://github.com/b0sc/college/tree/master/dsa)
+-   [ ] [Microprocessor]()
+-   [ ] [DBMS]()
+-   [ ] [OS]()
+-   [ ] [CN]()
+
+## How to contribute
+
+View `CONTRIBUTING.md` file for more information. You can contribute to this repository in several ways:
+
+-   Contribute by completing the assignments and projects in the respective course folder.
+-   Contribute by creating a new task or project in the respective course folder that is relevant to the course.
+
+If you're contributing in the month of October, you can also participate in the [Hacktoberfest](https://hacktoberfest.com/) event. Once you're registered there and have merged PRs with us, you'll be eligible to receive a free SWAG from BOSC. **Note:** _Only the Top 3 contributors will be eligible for the BOSC-SWAG, this Hacktoberfest-2024_
+
+## License
+
+This repository is licensed under the GPL3 License. See [LICENSE](https://github.com/b0sc/college/blob/master/LICENSE) for more information.
