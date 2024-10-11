@@ -8,7 +8,7 @@
 
 ## How to Submit?
 
-Inside the `[taskname]` folder, there is a `README.md` file that will contain how the task was implemented. Code in any of `C, Go, Python, Java, C++, C#, JavaScript, PHP` extension file. You can follow this same format to submit your task.
+Inside the `[taskname]` folder, there is a `README.md` file that you will write, how the task was implemented. Code in any of `C, Go, Python, Java, C++, C#, JavaScript, PHP` extension file. You can follow this same format to submit your task.
 
 -   Introduction to Question
 -   Propose a solution
@@ -21,23 +21,44 @@ When done, there should be two files in the `[taskname]` folder: `README.md` and
 
 You're free to write in `C, Go, Python, Java, C++, C#, JavaScript, PHP` or any other language you prefer, once understood the concept, you can implement it in any language you like.
 
--   [ ] [SQRT](./sqrt/)
--   [ ] [Task 2]()
--   [ ] [Task 3]()
--   [ ] [Task 4]()
--   [ ] [Task 5]()
--   [ ] [Task 6]()
--   [ ] [Task 7]()
--   [ ] [Task 8]()
--   [ ] [Task 9]()
--   [ ] [Task 10]()
+-   [ ] [Sqrt](./sqrt/)
+-   [ ] [Cash](./cash/)
+-   [ ] [Longer](./longer/)
+-   [ ] [Task 4 TBD]()
+-   [ ] [Task 5 TBD]()
+-   [ ] [Task 6 TBD]()
+-   [ ] [Task 7 TBD]()
+-   [ ] [Task 8 TBD]()
+-   [ ] [Task 9 TBD]()
+-   [ ] [Task 10 TBD]()
 
-### Task1: SQRT
+### Task 1: Sqrt
 
-Write a C program to calculate the square root of a number without using the sqrt() function from the math library. Instead, use an iterative method such as the Newton-Raphson method to approximate the result. Your program should include the following:
+A program to calculate the square root of a number without using the sqrt() function from the math library. Your program should include the following:
 
 -   Handle special cases like negative numbers and 0.
 -   Ensure the approximation continues until the result is accurate up to 6 decimal places.
 -   Return the result of the square root calculation as a double.
 
-This question challenges learners to apply concepts like loops, conditionals, functions, and arithmetic operations in C to achieve a mathematically correct result.
+_Hint:Newton-Raphson method_
+
+### Task 2: Cash
+
+A program that calculates the minimum number of coins required to give a user change. Your program should include the following:
+
+-   Prompt the user for the amount of change owed.
+-   Calculate the minimum number of coins with which that change can be made.
+-   Use the following coin denominations: 25¢, 10¢, 5¢, and 1¢.
+
+_Hint: Greedy Algorithm_. Check [here](https://cs50.harvard.edu/x/2024/psets/1/cash/) for more details.
+
+### Task 3: Longer
+
+A program to compute the result of two large numbers that cannot be stored in standard data types like int or long. Implement addition, subtraction, and multiplication of these large numbers by simulating how the operations work at the digit level. Your program should include the following:
+
+-   Represent the large numbers using arrays (or dynamically allocated memory).
+-   Implement functions for addition, subtraction, and multiplication that work digit-by-digit, similar to how manual calculations are done.
+-   Handle both positive and negative numbers.
+-   Ensure proper handling of overflow for large numbers beyond standard data type limits.
+
+_Hint: Memory Management_

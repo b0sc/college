@@ -5,18 +5,18 @@ A guide that everyone must follow to make contributions to this repository. If y
 1. Fork this repository.
 1. Clone the forked repository.
 1. Create a branch.
-1. Make necessary changes and commit those changes.
+1. Make necessary changes (Path A or Path B) and commit those changes.
 1. Push changes to GitHub.
 1. Submit your changes for review by making a Pull Request.
 
-If you've completed all the tasks as requested, all your changes will be merged into the main branch of this project. You will get a notification email once the changes have been merged and you'll be officially a contributor.
+If you've completed all the tasks as requested, all your changes will be merged into the main branch of this project. You will get a notification email once the changes have been merged and you'll officially be a contributor.
 
 ## Contributing Options
 
 You can contribute to this repository in several ways:
 
--   **PATH A:** Contribute by completing the assignments and projects in the respective course folder.
--   **PATH B:** Contribute by creating a new task or project in the respective course folder that is relevant to the course.
+-   **PATH A:** Contribute by completing the tasks in the respective course folder.
+-   **PATH B:** Contribute by creating a new task in the respective course folder that is relevant to the course.
 
 ### PATH A
 
@@ -26,7 +26,7 @@ You can contribute to this repository in several ways:
 
 > Contribute by creating a new task in the respective course folder. In the `README.md` file, you will find the course structure where you can add a new task so that others can learn a different practical task.
 
--   Each course will have a maximum of 10 tasks, if there are less than 10 tasks, only then you can add a new task to the course, otherwise, you can contribute to other courses or join advanced path.
+Each course will have a maximum of 10 tasks, if there are less than 10 tasks, only then you can add a new task to the course, otherwise, you can contribute to other courses or join advanced path.
 
 ### Advanced Path
 

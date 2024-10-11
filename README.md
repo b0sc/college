@@ -5,10 +5,10 @@ The repository is organized by the course name. Each course has its own folder a
 
 ## Courses Available
 
--   [x] [C](https://github.com/b0sc/college/tree/master/c)
--   [x] [Digital Logic](https://github.com/b0sc/college/tree/master/digital_logic)
--   [x] [OOP](https://github.com/b0sc/college/tree/master/oop)
--   [x] [DSA](https://github.com/b0sc/college/tree/master/dsa)
+-   [x] [C](./c/)
+-   [x] [Digital Logic](./digital_logic/)
+-   [x] [OOP](./oop/)
+-   [x] [DSA](./dsa/)
 -   [ ] [Microprocessor]()
 -   [ ] [DBMS]()
 -   [ ] [OS]()
@@ -26,3 +26,7 @@ If you're contributing in the month of October, you can also participate in the 
 ## License
 
 This repository is licensed under the GPL3 License. See [LICENSE](https://github.com/b0sc/college/blob/master/LICENSE) for more information.
+
+## More Fun Ways To Learn
+
+-   [CS50x](https://cs50.harvard.edu/x/2024/) (an inspiration to this repository)
