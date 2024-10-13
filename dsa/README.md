@@ -17,11 +17,11 @@ When done, there should be two files in the `[taskname]` folder: `README.md` and
 
 ## Tasks
 
-You're free to write in `C, Go, Python, Java, C++, C#, JavaScript, PHP` or any other language you prefer, once understood the concept, you can implement it in any language you like.
+You're free to write in `C, Go, Python, C++, JavaScript, PHP` as you prefer, once understood the concept, you can implement it in any language you like.
 
+-   [ ] [SortRace](https://github.com/b0sc/sortRace)
 -   [ ] [Tower of Hanoi](./tower_of_hanoi/)
 -   [ ] [RunOff](./runoff/)
--   [ ] [Task 3 TBD]()
 -   [ ] [Task 4 TBD]()
 -   [ ] [Task 5 TBD]()
 -   [ ] [Task 6 TBD]()
@@ -30,7 +30,13 @@ You're free to write in `C, Go, Python, Java, C++, C#, JavaScript, PHP` or any o
 -   [ ] [Task 9 TBD]()
 -   [ ] [Task 10 TBD]()
 
-### Task 1: Tower of Hanoi
+### Task 1: SortRace
+
+> SortRace is a program that compares the performance of different sorting algorithms. We've created a seperate [repository](https://github.com/b0sc/sortRace) for this task, where you can contribute to the project.
+
+> You will visualize the performance of different sorting algorithms like Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort etc.
+
+### Task 2: Tower of Hanoi
 
 > Tower of Hanoi is a mathematical puzzle that consists of three rods and a number of disks of different sizes, which can slide onto any rod. The puzzle starts with all the disks stacked in ascending order of size on one rod, with the smallest disk at the top. The objective of the puzzle is to move the entire stack of disks to another rod, following these rules:
 
@@ -56,7 +62,7 @@ Move disk 2 from rod B to rod C
 Move disk 1 from rod A to rod C
 ```
 
-### Task 2: RunOff
+### Task 3: RunOff
 
 Implement a runoff election program where voters rank candidates in order of preference. Your program should simulate multiple rounds of runoff voting until a candidate has more than half of the votes or all remaining candidates are tied. Specifically, your program must:
 
@@ -73,6 +79,7 @@ _Hint:Greedy Elimination, Sorting, Linear Search._ Check [here](https://cs50.har
 Watch `Cs50x` lecture on [Algorithms](https://www.youtube.com/watch?v=jZzyERW7h1A) and [Data Structures](https://www.youtube.com/watch?v=0euvEdPwQnQ) to understand the basics of DSA course.
 
 -   [Tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+-   [GeeksforGeeks](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm)
 
 ## Additional Tasks
 

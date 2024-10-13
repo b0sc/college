@@ -20,7 +20,7 @@ When done, there should be two files in the `[taskname]` folder: `README.md` and
 
 ## Tasks
 
-You're free to write in `C, Go, Python, Java, C++, C#, JavaScript, PHP` or any other language you prefer, once understood the concept, you can implement it in any language you like.
+You're free to write in `C, Go, Python, C++, C#, JavaScript, PHP` as you prefer, once understood the concept, you can implement it in any language you like.
 
 -   [ ] [Task 1 TBD]()
 -   [ ] [Task 2 TBD]()
