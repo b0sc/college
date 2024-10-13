@@ -4,7 +4,7 @@
 
 > Theory part covers topics like data types, operators, control structures, functions, arrays, pointers, strings, file handling, structures, and unions.
 
-> This course is designed to help students understand the practical implementations of those thoeritical concepts taught in syllabus.
+This course is designed to help students understand the practical implementations of those thoeritical concepts taught in syllabus.
 
 ## How to Submit?
 
