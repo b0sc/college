@@ -29,4 +29,7 @@ This repository is licensed under the GPL3 License. See [LICENSE](https://github
 
 ## More Fun Ways To Learn
 
--   [CS50x](https://cs50.harvard.edu/x/2024/) (an inspiration to this repository)
+BOSC is not affiliated with them, but these are the inspiration for this repository.
+
+-   [CS50x](https://cs50.harvard.edu/x/2024/)
+-   [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file)

@@ -21,7 +21,7 @@ If some tasks seems challenging, you can use the hint to and research from the a
 
 ## Tasks
 
-You're free to write in `C, Go, Python, Java, C++, C#, JavaScript, PHP` or any other language you prefer, once understood the concept, you can implement it in any language you like.
+You're free to write in `C, Go, Python, C++, JavaScript, PHP` as you prefer, once understood the concept, you can implement it in any language you like.
 
 -   [ ] [Sqrt](./sqrt/)
 -   [ ] [Cash](./cash/)
@@ -99,6 +99,16 @@ Implement a robust error-handling mechanism for a program that performs file ope
 
 ## Resources
 
+Watch `Cs50x` lecture on [C](https://www.youtube.com/watch?v=cwtpLIWylAw) and [Memory](https://www.youtube.com/watch?v=F9-yqoS7b8w&t=1s) to understand the basics of C programming.
+
 -   [Documentation](https://devdocs.io/c/)
 -   [GNU C Library v2.40](https://sourceware.org/glibc/manual/2.40/html_node/index.html)
 -   [cppreference](https://en.cppreference.com/w/)
+
+## Additional Tasks
+
+Extra awesome problem sets and challenges to practice your skills.
+
+-   [Caesar Cipher](https://cs50.harvard.edu/x/2024/psets/2/caesar/)
+-   [Substitution](https://cs50.harvard.edu/x/2024/psets/2/substitution/)
+-   [Problem Set 4](https://cs50.harvard.edu/x/2024/psets/4/)
