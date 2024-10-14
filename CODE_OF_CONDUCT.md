@@ -1,6 +1,6 @@
 # Code-of-Conduct
 
-This is a Code of Conduct for the BOSC community. This is [largely based on the p5.js Code of Conduct](https://github.com/processing/p5.js/blob/main/CODE_OF_CONDUCT.md) and applies to all interactions here on GitHub.
+This is a Code of Conduct for the BOSC community. This applies to all interactions here on GitHub.
 
 * **Be mindful of your language.** Any of the following behavior is unacceptable: 
   * Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or background
@@ -17,7 +17,11 @@ This is a Code of Conduct for the BOSC community. This is [largely based on the 
 * **Be considerate.** Think about how your contribution will affect others in the community. 
 * **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
 
-If you believe someone is violating the code of conduct, we ask that you report it by following these steps:
+If you believe someone is violating the code of conduct, we ask that you report it to [mail@bosc.org.np](mailto:mail@bosc.org.np) or to [repo maintainer](mailto:axyut@outlook.com) Please include your name and a description of the incident, and we will get back to you ASAP.
+
+Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the BOSC may take any action they deem appropriate.
+
+Alternatively, report the incident to GitHub by following these steps:
 
     1. Visit the user's profile page.
 
