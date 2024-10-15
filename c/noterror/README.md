@@ -1,6 +1,3 @@
-# Introduction to Question
-
-In this program, we are tasked with implementing a robust error-handling mechanism in C. The program must handle three primary operations: file operations, memory allocation, and network communication. Additionally, it should log any errors that occur, return appropriate error codes, and exit the program gracefully in case of critical errors (e.g., memory allocation failure). The error handler will log all the relevant error details into a log file (`error_log.txt`) and manage error messages efficiently.
 
 ## Solution Proposal
 
