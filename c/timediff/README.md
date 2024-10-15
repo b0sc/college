@@ -88,14 +88,7 @@ int main() {
 ## Output of the Code
 
 When the program is executed, it will prompt the user for two times and the number of seconds to add. Here is an example of the expected output:
-
-```
-Enter first time (HH MM SS): 23 59 58
-Enter second time (HH MM SS): 00 00 01
-Time Difference: 23:59:57
-Enter seconds to add to the first time: 5
-New Time after adding seconds: 00:00:03
-```
+![Terminal Screenshot](terminalScreenShot.png)
 
 ### Explanation of the Example Output
 
