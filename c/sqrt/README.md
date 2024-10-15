@@ -9,8 +9,8 @@ The **Newton-Raphson method** is an iterative approach used to approximate the s
 $$x_{n+1} = \frac{1}{2} \left(x_n + \frac{S}{x_n}\right)$$
 
 Where:
-- \(S\) is the number whose square root is being approximated.
-- \(x_n\) is the current guess.
+- $$\(S\)$$ is the number whose square root is being approximated.
+- $$\(x_n\)$$ is the current guess.
 
 This method converges quickly to the accurate square root value. To achieve accuracy up to 6 decimal places, the iteration is continued until the difference between successive guesses is less than `0.000001`.
 
