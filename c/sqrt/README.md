@@ -93,6 +93,7 @@ Enter a number: 25
 ```
 The square root of 25.000000 is 5.000000.
 ```
+![output1](assets/1.png)
 
 ### Example 2: Negative Number
 **Input:**
@@ -101,8 +102,10 @@ Enter a number: -9
 ```
 **Output:**
 ```
--9 has no roots.
+-9.000000 has no roots.
 ```
+
+![output2](assets/2.png)
 
 ### Example 3: Zero
 **Input:**
@@ -113,5 +116,6 @@ Enter a number: 0
 ```
 The square root of 0.000000 is 0.000000.
 ```
+![output3](assets/3.png)
 
 ---
