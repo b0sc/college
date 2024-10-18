@@ -19,9 +19,13 @@ The repository is organized by the course name. Each course has its own folder a
 View `CONTRIBUTING.md` file for more information. You can contribute to this repository in several ways:
 
 -   Contribute by completing the assignments and projects in the respective course folder.
--   Contribute by creating a new task or project in the respective course folder that is relevant to the course.
+-   Contribute with Issues: Create a new task in the respective course folder that is relevant to the course. Check repo to see how other task are written and opened as issues.
 
-If you're contributing in the month of October, you can also participate in the [Hacktoberfest](https://hacktoberfest.com/) event. Once you're registered there and have merged PRs with us, you'll be eligible to receive a free SWAG from BOSC. **Note:** _Only the Top 3 contributors will be eligible for the BOSC-SWAG, this Hacktoberfest-2024_
+### Contribute with Issues
+
+If you do not find the issue you are looking for, please create a new [issue]([https://github.com/b0sc/b0sc.github.io/issues/new?assignees=&labels=&projects=&template=custom.md&title=](https://github.com/b0sc/college/issues/new?assignees=&labels=&projects=&template=issue-template.md&title=)) after reviewing the repo. Check [Contributing.md](CONTRIBUTING.md) for more information.
+
+> If you're contributing in the month of October, you can also participate in the [Hacktoberfest](https://hacktoberfest.com/) event. Once you're registered there and have merged PRs with us, you'll be eligible to receive a free SWAG from BOSC. **Note:** _Only the Top 3 contributors will be eligible for the BOSC-SWAG, this Hacktoberfest-2024_
 
 ## License
 
