@@ -22,8 +22,8 @@ You're free to write in `C, Go, Python, C++, JavaScript, PHP` as you prefer, onc
 -   [ ] [SortRace](https://github.com/b0sc/sortRace)
 -   [ ] [Tower of Hanoi](./tower_of_hanoi/)
 -   [ ] [RunOff](./runoff/)
--   [ ] [Task 4 TBD]()
--   [ ] [Task 5 TBD]()
+-   [ ] [Stack](./stack/)
+-   [ ] [Queue](./queue/)
 -   [ ] [Task 6 TBD]()
 -   [ ] [Task 7 TBD]()
 -   [ ] [Task 8 TBD]()
@@ -71,6 +71,19 @@ Implement a runoff election program where voters rank candidates in order of pre
 -   Redistribute votes for eliminated candidates based on each voter's next highest-ranked preference.
 -   Check for a majority after each round (i.e., if any candidate has more than half of the votes, they win).
 -   Handle ties: If all remaining candidates are tied, the election should end with no winner.
+
+### Task 4: Stack
+
+The task is to implement basic stack operations in and create algorithms that convert an **infix expression** to **postfix** and **prefix** expressions. This exercise will help you understand stack data structures and their practical applications in expression evaluation and conversion.
+
+More info on: [Stack](./stack/question.md)
+
+
+### Task 5: Queue
+
+The task is to implement the basic queue operations (Enqueue and Dequeue) and to explore different types of queues, including **Linear Queue**, **Circular Queue**, and **Priority Queue**. This exercise will help you understand the queue data structure, its variations, and practical applications in managing and prioritizing data.
+
+More info on: [Queue](./queue/question.md)
 
 _Hint:Greedy Elimination, Sorting, Linear Search._ Check [here](https://cs50.harvard.edu/x/2024/psets/3/runoff/) for more details.
 
